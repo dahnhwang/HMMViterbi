@@ -148,8 +148,8 @@ public class Main {
 		Iterator itr = inputList.iterator();
 		while (itr.hasNext()) {
 			ArrayList<ArrayList<String>> sentenceList = new ArrayList<ArrayList<String>>();
-			String line = (String) itr.next(); // 너를 사랑해!
-			for (int i = 0; i < line.split(" ").length; i++) { // 한 문장을 어절단위로 나눠진 상태로 파일을 탐색하며 리스트에 담는다.
+			String line = (String) itr.next();
+			for (int i = 0; i < line.split(" ").length; i++) { 
 				ArrayList<String> syllableList = null;
 				String syllable = line.split(" ")[i];
 				syllableList = searchResultTxtFile(syllable, syllableList, pathStr);
