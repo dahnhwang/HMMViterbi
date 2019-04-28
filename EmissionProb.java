@@ -63,7 +63,8 @@ public class EmissionProb {
 
 			double wordPairCount = value.getCountVal();
 			double emissionProb = wordPairCount / statusCount;
-			// if the wordset is new to the map, i calculated differently within the code...
+			// if the wordset is new to the map, i calculated differently within the
+			// code (bayesian smoothing)
 			value.setValue(emissionProb);
 		}
 	}
