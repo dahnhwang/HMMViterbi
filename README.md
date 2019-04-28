@@ -1,6 +1,6 @@
 # HMMViterbi
-Use HMM/Viterbi algorithm to find out the POS tagger with the highest probability (Korean)
-Last Version : 2019-04-08 (Mon)
+-Use HMM/Viterbi algorithm to find out the POS tagger with the highest probability (Korean)
+-Last Version : 2019-04-29 (Mon)
 
 # Input
 A program given in the class proposes lots of possible combination of POS taggers(result.txt) of a sentence(input.txt).
