@@ -11,7 +11,7 @@ Used both text files as input.
 - calculate HMM probability(transition & emission probability in BigramModel.java and EmissionProb.java)
 - calculate the probability of each possible combination of POS taggers and choose the maximum(Viterbi.java)
 
-# Output Example
+# Output
 =========================================================
 26. 안녕/NNG+하/XSV+세/EC+요/JX (1.3408431095769626E-16)
 =========================================================
