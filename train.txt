@@ -1,0 +1,33 @@
+
+전씨	전/NNP+씨/NNB
+등은	등/NNB+은/JX
+석진강변호사	석진강/NNP+변호사/NNG
+등	등/NNB
+대리인을	대리인/NNG+을/JKO
+통해	통하/VV+아/EC
+제출한	제출/NNG+하/XSV+ㄴ/ETM
+청구서에서	청구서/NNG+에서/JKB
+{검찰이	{/SS+검찰/NNG+이/JKS
+12·12에	12/SN+·/SP+12/SN+에/JKB
+대해	대하/VV+아/EC
+기소유예,	기소/NNG+유예/NNG+,/SP
+5·18에	5/SN+·/SP+18/SN+에/JKB
+대해	대하/VV+아/EC
+[공소권	[/SS+공소/NNG+권/XSN
+없음]	없/VA+음/ETN+]/SS
+결정을	결정/NNG+을/JKO
+각각	각각/MAG
+내린	내리/VV+ㄴ/ETM
+뒤	뒤/NNG
+고소·고발인의	고소/NNG+·/SP+고발인/NNG+의/JKG
+불복절차와	불복/NNG+절차/NNG+와/JC
+헌법소원	헌법/NNG+소원/NNG
+등을	등/NNB+을/JKO
+거쳐	거치/VV+어/EC
+이미	이미/MAG
+이	이/MM
+처분이	처분/NNG+이/JKS
+확정됐다}면서	확정/NNG+되/XSV+었/EP+다/EC+}/SS+면서/EC
+{그럼에도	{/SS+그렇/VA+ㅁ/ETN+에/JKB+도/JX
+...
+// just check for the formatting (it is too big)
