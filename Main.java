@@ -214,9 +214,9 @@ public class Main {
 		// check list of allSentences
 		Iterator itr = allSentences.iterator();
 		while (itr.hasNext()) {
-			ArrayList<String> sentenceList = (ArrayList<String>) itr.next(); // 너를 사랑해!
+			ArrayList<String> sentenceList = (ArrayList<String>) itr.next();
 			Iterator itr2 = sentenceList.iterator();
-			System.out.println(sentenceList); // 문장단위로 어절 단위로 나누어진 list임(비터비 최종 분석대상이자 input)
+			System.out.println(sentenceList); 
 		}
 	}
 
