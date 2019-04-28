@@ -23,3 +23,6 @@ Used both text files as input.
 (1) 우리/NP+집/NNG+에/JKB (2.6366425567046166E-8)
 (1) 왜/MAG (1.8208680002754855E-4)
 (5) 오/VX+았/EP+니/EF+?/SF (3.5820256528122703E-9)
+
+# LIMITS & QUESTIONS
+1. UNKNOWN word에 대한 품사결정 시스템 처리가 포함되지 않았음
